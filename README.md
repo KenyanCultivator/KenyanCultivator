@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KenyanCultivator
+- 👋 Hi, I’m @Joe Seph
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 25warmonger@gmail.com
+- 📫 How to reach me joesephno2@gmail.com
 
 
 <!---

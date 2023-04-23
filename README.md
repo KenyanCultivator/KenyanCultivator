@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning various programming languages
 - 📫 How to reach me joesephno2@gmail.com
-- Given enough time i will get you what you need.
 - problem solver looking to create programs that offer utility where possible.
+- Given enough time i will get you what you need.
 
 
 <!---

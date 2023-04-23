@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joesephno2@gmail.com
+- problem solver looking to create programs that offer alot of utilities where possible.
 
 
 <!---
